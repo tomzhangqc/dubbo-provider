@@ -1,6 +1,8 @@
 C:\Users\User\dubbo-provider\provider-parent\service\src\main\java\com\forum\service\impl\DubboProviderServiceImpl.java
+C:\Users\User\dubbo-provider\provider-parent\service\src\main\java\com\forum\service\impl\RabbitMQSenderServiceImpl.java
 C:\Users\User\dubbo-provider\provider-parent\service\src\main\java\com\forum\service\DubboProviderService.java
 C:\Users\User\dubbo-provider\provider-parent\service\src\main\java\com\forum\service\TimerTaskService.java
+C:\Users\User\dubbo-provider\provider-parent\service\src\main\java\com\forum\service\RabbitMQSenderService.java
 C:\Users\User\dubbo-provider\provider-parent\service\src\main\java\com\forum\service\impl\UserLoginServiceImpl.java
 C:\Users\User\dubbo-provider\provider-parent\service\src\main\java\com\forum\service\UserLoginService.java
 C:\Users\User\dubbo-provider\provider-parent\service\src\main\java\com\forum\service\impl\TimerTaskServcieImpl.java

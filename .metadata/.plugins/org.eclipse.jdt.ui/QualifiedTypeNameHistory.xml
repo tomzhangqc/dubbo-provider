@@ -12,4 +12,5 @@
 <fullyQualifiedTypeName name="org.slf4j.Logger"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+<fullyQualifiedTypeName name="com.alibaba.dubbo.config.annotation.Service"/>
 </qualifiedTypeNameHistroy>
