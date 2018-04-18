@@ -5,7 +5,20 @@
   <link rel="self" href="https://spring.io/blog.atom" />
   <id>http://spring.io/blog.atom</id>
   <icon>https://spring.io/favicon.ico</icon>
-  <updated>2018-04-17T12:21:32Z</updated>
+  <updated>2018-04-18T02:20:22Z</updated>
+  <entry>
+    <title>Spring Tips: Redis</title>
+    <link rel="alternate" href="https://spring.io/blog/2018/04/18/spring-tips-redis" />
+    <category term="engineering" label="Engineering" />
+    <author>
+      <name>Josh Long</name>
+    </author>
+    <id>tag:spring.io,2018-04-18:3255</id>
+    <updated>2018-04-18T02:20:22Z</updated>
+    <content type="html">&lt;p&gt;speaker: &lt;a href="http://twitter.com/starbuxman"&gt;Josh Long&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hi Spring fans! In this installment we look at the many facets of Redis, the distributed data structure server. Spring supports Redis through the Spring Cache abstraction, Spring Session, the Spring message-listener container abstraction, and through the Spring Data Redis module.&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_M8xoagybzU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</content>
+  </entry>
   <entry>
     <title>This Week in Spring - April 17th, 2018</title>
     <link rel="alternate" href="https://spring.io/blog/2018/04/17/this-week-in-spring-april-17th-2018" />
@@ -1219,20 +1232,5 @@ inputSource.poll(System.out::println);
 &lt;/ul&gt;
 &lt;p&gt;Spring Boot 2.0.1 and 1.5.11 (superseded by 1.5.12 with CVE-2018-1275), that match the above Spring Framework versions, were &lt;a href="https://spring.io/blog/2018/04/05/spring-boot-2-0-1-available-now"&gt;released today&lt;/a&gt;, and are now also available for use.&lt;/p&gt;
 &lt;p&gt;Please, review the information in the CVE reports and upgrade immediately. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Spring Boot 2.0.1 available now</title>
-    <link rel="alternate" href="https://spring.io/blog/2018/04/05/spring-boot-2-0-1-available-now" />
-    <category term="releases" label="Releases" />
-    <author>
-      <name>St¨¦phane Nicoll</name>
-    </author>
-    <id>tag:spring.io,2018-04-05:3233</id>
-    <updated>2018-04-05T14:21:00Z</updated>
-    <content type="html">&lt;p&gt;Hot on the heels of &lt;a href="https://spring.io/blog/2018/04/05/spring-boot-1-5-11-available-now"&gt;Spring Boot 1.5.11&lt;/a&gt;, Spring Boot 2.0.1 is now available from &lt;a href="http://repo.spring.io/release"&gt;repo.spring.io&lt;/a&gt; and &lt;a href="http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22org.springframework.boot%22"&gt;Maven Central&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The first maintenance release of Spring Boot 2 includes &lt;a href="https://github.com/spring-projects/spring-boot/milestone/98?closed=1"&gt;over 160 fixes, improvements and dependency updates&lt;/a&gt;. Thanks to all that have contributed with issue reports and pull requests.&lt;/p&gt;
-&lt;p&gt;Note that the Spring Framework versions included in both Spring Boot releases contain fixes that address multiple vulnerability reports. Please see this &lt;a href="https://spring.io/blog/2018/04/05/multiple-cve-reports-published-for-the-spring-framework"&gt;blog post&lt;/a&gt; for more details.&lt;/p&gt;&lt;h3&gt;&lt;a href="#how-can-you-help" class="anchor" name="how-can-you-help"&gt;&lt;/a&gt;How can you help?&lt;/h3&gt;
-&lt;p&gt;If you&amp;rsquo;re interested in helping out, check out the &lt;a href="https://github.com/spring-projects/spring-boot/labels/status%3A%20ideal-for-contribution"&gt;&amp;ldquo;ideal for contribution&amp;rdquo; tag&lt;/a&gt; in the issue repository. If you have general questions, please ask on &lt;a href="http://stackoverflow.com"&gt;stackoverflow.com&lt;/a&gt; using the &lt;a href="http://stackoverflow.com/tags/spring-boot"&gt;&lt;code&gt;spring-boot&lt;/code&gt; tag&lt;/a&gt; or chat with the community on &lt;a href="https://gitter.im/spring-projects/spring-boot"&gt;Gitter&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://projects.spring.io/spring-boot/"&gt;Project Page&lt;/a&gt; | &lt;a href="https://github.com/spring-projects/spring-boot"&gt;GitHub&lt;/a&gt; | &lt;a href="https://github.com/spring-projects/spring-boot/issues"&gt;Issues&lt;/a&gt; | &lt;a href="http://docs.spring.io/spring-boot/docs/2.0.1.RELEASE/reference/htmlsingle"&gt;Documentation&lt;/a&gt; | &lt;a href="http://stackoverflow.com/questions/tagged/spring-boot"&gt;Stack Overflow&lt;/a&gt; | &lt;a href="https://gitter.im/spring-projects/spring-boot"&gt;Gitter&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
