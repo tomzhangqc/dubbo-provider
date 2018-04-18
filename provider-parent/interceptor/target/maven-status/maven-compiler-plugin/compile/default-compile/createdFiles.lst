@@ -1,0 +1,3 @@
+com\forum\interceptor\ChannelInterceptor.class
+com\forum\interceptor\CoreInterceptor.class
+com\forum\interceptor\registered\InterceptorConfig.class

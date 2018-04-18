@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1523784496977_0" label="parent" name="parent">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/controllers" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/provider-parent" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/interceptor" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/starter" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/configuration" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/repository" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/listener" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/model" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1523881357159_1" label="Window Working Set" name="Aggregate for window 1523881357158"/>
+</workingSetManager>

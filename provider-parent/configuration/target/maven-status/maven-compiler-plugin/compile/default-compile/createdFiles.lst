@@ -1,0 +1,3 @@
+com\forum\configuration\DubboConfig.class
+com\forum\configuration\TaskExecutePoolConfig.class
+com\forum\configuration\ScheduledConfig.class

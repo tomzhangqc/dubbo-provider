@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="controllers"/>
+<aop-project name="interceptor"/>
+<aop-project name="starter"/>
+<aop-project name="configuration"/>
+<aop-project name="repository"/>
+<aop-project name="listener"/>
+<aop-project name="service"/>
+</aop-reference-model>

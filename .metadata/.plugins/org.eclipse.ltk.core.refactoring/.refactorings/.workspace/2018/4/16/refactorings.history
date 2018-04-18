@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;parent&apos; to &apos;provider-parent&apos;" description="Rename resource &apos;parent&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/parent" name="provider-parent" stamp="1523881385089" updateReferences="true"/>
+</session>

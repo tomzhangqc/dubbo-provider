@@ -1,0 +1,24 @@
+package com.forum.service.impl;
+
+import java.util.Date;
+
+import javax.annotation.Resource;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.amqp.core.AmqpTemplate;
+
+import com.forum.service.RabbitMQSenderService;
+
+public class RabbitMQSenderServiceImpl implements RabbitMQSenderService{
+	@Resource
+	private AmqpTemplate rabbitTemplate;
+	Logger log=LoggerFactory.getLogger(getClass());
+	@Override
+	public void send() {
+	     String context = "hello " + new Date();
+	     log.info("Sender : " + context);
+	     this.rabbitTemplate.convertAndSend("rabbit", context);
+	}
+
+}

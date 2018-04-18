@@ -1,0 +1,22 @@
+package com.forum.service.impl;
+
+import java.util.Date;
+
+import javax.annotation.Resource;
+
+import org.springframework.amqp.core.AmqpTemplate;
+
+import com.forum.service.RabbitMQSenderService;
+
+public class RabbitMQSenderServiceImpl implements RabbitMQSenderService{
+	@Resource
+	private AmqpTemplate rabbitTemplate;
+	@Override
+	public void send() {
+	     String context = "hello " + new Date();
+	        System.out.println("Sender : " + context);
+	        this.rabbitTemplate.convertAndSend("hello", context);
+	    }
+	}
+
+}
