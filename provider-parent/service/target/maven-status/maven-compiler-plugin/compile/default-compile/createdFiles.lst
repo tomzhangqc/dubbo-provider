@@ -1,0 +1,8 @@
+com\forum\service\UserLoginService.class
+com\forum\service\DubboProviderService.class
+com\forum\service\TimerTaskService.class
+com\forum\service\impl\TimerTaskServcieImpl.class
+com\forum\service\RabbitMQSenderService.class
+com\forum\service\impl\DubboProviderServiceImpl.class
+com\forum\service\impl\RabbitMQSenderServiceImpl.class
+com\forum\service\impl\UserLoginServiceImpl.class

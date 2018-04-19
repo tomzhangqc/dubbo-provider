@@ -1,0 +1,3 @@
+com\forum\configuration\RabbitConfig.class
+com\forum\configuration\TaskExecutePoolConfig.class
+com\forum\configuration\ScheduledConfig.class

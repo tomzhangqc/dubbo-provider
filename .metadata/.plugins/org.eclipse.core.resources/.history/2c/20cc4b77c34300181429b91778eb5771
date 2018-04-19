@@ -1,0 +1,12 @@
+package com.forum.service.impl;
+
+import com.forum.service.TopicRabbitMQSenderService;
+
+public class TopicRabbitMQSenderServiceImpl implements TopicRabbitMQSenderService{
+
+	@Override
+	public void send() {
+		
+	}
+
+}

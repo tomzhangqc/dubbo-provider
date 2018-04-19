@@ -1,0 +1,3 @@
+com\forum\controller\LoginController.class
+com\forum\controller\RabbitMQSenderController.class
+com\forum\controller\TestController.class
